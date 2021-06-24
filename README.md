@@ -1,1 +1,1 @@
-# Predtiction-of-worker-salary-and-satisfaction
+# Job Salary Prediction Job Satisfaction Classification
